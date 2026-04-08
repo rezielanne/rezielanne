@@ -173,9 +173,9 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 </div>
 
 ---
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" alt="Footer" />
+
 
 *🌷 Thanks for visiting! I'm always open to learning, collaborating, and growing — feel free to reach out! — Reziel Anne ✨*
 </div>
