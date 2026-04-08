@@ -144,7 +144,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ---
 
 ## 📊 GitHub Overview
-
+<div align="center">
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=rezielanneAtienza&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f9a8d4&text_color=c4b5d4&border_radius=10" />
