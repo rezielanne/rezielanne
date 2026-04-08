@@ -84,17 +84,54 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+</p>
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /></a>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /></a>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
+</p>
 
 ---
 
