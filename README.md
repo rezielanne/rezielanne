@@ -1,13 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&amp;fontSize=34&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=QA%20Engineer%20in%20the%20Making%20%C2%B7%20Aspiring%20Project%20Manager%20%C2%B7%20UI%2FUX%20%26%20Dev%20Enthusiast&amp;descAlignY=55&amp;descSize=15" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Reziel%20Anne%20Atienza%20🌷&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20·%20Aspiring%20Project%20Manager%20·%20UI/UX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=16" />
+  
   <br/>
-  <b>QA Engineer in the Making · Aspiring Project Manager · UI/UX &amp; Dev Enthusiast</b>
-  <br/>
-  <a href="https://linkedin.com/in/rezielanneAtienza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/rezielanne"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:rezielanne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-</div>
 
+  **QA Engineer in the Making · Aspiring Project Manager · UI/UX & Dev Enthusiast**
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/rezielanneAtienza">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rezielanne">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rezielanne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 ---
 
 ## 🌷 About Me
