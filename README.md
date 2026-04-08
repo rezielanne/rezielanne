@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20%C2%B7%20Aspiring%20Project%20Manager%20%C2%B7%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=15" alt="Header" />
   <br/>
-  <b>QA Engineer in the Making · Aspiring Project Manager · UI/UX & Dev Enthusiast</b>
+  <b>QA Engineer in the Making · Aspiring Project Manager · UI/UX &amp; Dev Enthusiast</b>
   <br/>
   <a href="https://linkedin.com/in/rezielanneAtienza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rezielanne"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,7 +19,7 @@ role       : "IT Student"
 passion    : ["Quality Assurance", "Project Management", "UI/UX Design", "Web Development"]
 focus      : "Ensuring software quality and leading teams that build great products 🧪📊"
 goal       : "From QA Engineer → Project Manager → Impactful Tech Leader 🚀"
-fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
+fun_fact   : "I find more bugs than features 🐛 — and I'm proud of it ✨"
 ```
 
 > 🌷 *Passionate and detail-oriented IT student who believes that quality is the foundation of every great product. I enjoy finding what's broken, making it better, and building teams that deliver.*
@@ -36,7 +36,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ---
 
-## 🧪 QA & Testing Skills
+## 🧪 QA &amp; Testing Skills
 
 ### Testing Knowledge
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-✓-c084fc?style=flat-square&labelColor=1a0a2e)
@@ -55,7 +55,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ## 📊 Project Management Skills
 
-### Methodologies & Tools
+### Methodologies &amp; Tools
 ![Agile](https://img.shields.io/badge/Agile-Scrum-5eead4?style=flat-square&labelColor=0d1117)
 ![Kanban](https://img.shields.io/badge/Kanban-Board-5eead4?style=flat-square&labelColor=0d1117)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white)
@@ -76,7 +76,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
 </p>
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks &amp; Libraries
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>&nbsp;
@@ -89,7 +89,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <a href="#"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /></a>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools &amp; Platforms
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;
@@ -102,7 +102,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <a href="#"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /></a>
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases &amp; Cloud
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
@@ -119,13 +119,12 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 | Priority | Area | Focus | Progress |
 |:--------:|------|-------|----------|
-| 🥇 | 🧪 QA & Testing | Testing principles, methodologies & automation | `████████░░` 80% |
-| 🥈 | 📊 Project Mgmt | Agile, Scrum, team & delivery management | `███████░░░` 70% |
-| 🥉 | 🎨 UI/UX Design | User-centered design & layout structuring | `██████░░░░` 60% |
-| 4️⃣ | 🌱 Frontend Dev | React & Next.js development | `█████░░░░░` 50% |
+| 🥇 | 🧪 QA &amp; Testing | Testing principles, methodologies &amp; automation | `████████░░` 80% |
+| 🥈 | 📊 Project Mgmt | Agile, Scrum, team &amp; delivery management | `███████░░░` 70% |
+| 🥉 | 🎨 UI/UX Design | User-centered design &amp; layout structuring | `██████░░░░` 60% |
+| 4️⃣ | 🌱 Frontend Dev | React &amp; Next.js development | `█████░░░░░` 50% |
 
 ---
-
 
 ## 📊 GitHub Overview
 <div align="center">
