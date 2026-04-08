@@ -1,22 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Reziel%20Anne%20Atienza%20🌷&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20·%20Aspiring%20Project%20Manager%20·%20UI/UX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=16" />
-  
-  <br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Reziel%20Anne%20Atienza%20🌷&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20·%20Aspiring%20Project%20Manager%20·%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=16)
 
-  **QA Engineer in the Making · Aspiring Project Manager · UI/UX & Dev Enthusiast**
+## 👋 Hello!
 
-  <br/><br/>
+**QA Engineer in the Making · Aspiring Project Manager · UI/UX & Dev Enthusiast**
 
-  <a href="https://linkedin.com/in/rezielanneAtienza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rezielanne">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:rezielanne@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 ---
 
 ## 🌷 About Me
