@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Reziel%20Anne%20Atienza%20🌷&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20·%20Aspiring%20Project%20Manager%20·%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20🌷&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20·%20Aspiring%20Project%20Manager%20·%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=16)
 
 ## 👋 Hello!
 
@@ -16,7 +16,6 @@ passion    : ["Quality Assurance", "Project Management", "UI/UX Design", "Web De
 focus      : "Ensuring software quality and leading teams that build great products 🧪📊"
 goal       : "From QA Engineer → Project Manager → Impactful Tech Leader 🚀"
 fun_fact   : "I find more bugs than features 🐛 — and I'm proud of it ✨"
-```
 
 > 🌷 *Passionate and detail-oriented IT student who believes that quality is the foundation of every great product. I enjoy finding what's broken, making it better, and building teams that deliver.*
 
