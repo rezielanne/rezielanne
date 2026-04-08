@@ -28,23 +28,11 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ## 🎯 Career Goals
 
-<table>
-  <tr>
-    <td align="center">🥇</td>
-    <td><strong>QA Engineer</strong></td>
-    <td>Gain hands-on experience in software testing &amp; quality assurance — my primary passion</td>
-  </tr>
-  <tr>
-    <td align="center">🥈</td>
-    <td><strong>Project Manager</strong></td>
-    <td>Lead development teams, manage timelines, and deliver successful projects</td>
-  </tr>
-  <tr>
-    <td align="center">🥉</td>
-    <td><strong>UI/UX Designer &amp; Developer</strong></td>
-    <td>Create visually appealing, user-friendly interfaces &amp; functional systems</td>
-  </tr>
-</table>
+|   | Role                        | Focus                                                                 |
+|:-:|:----------------------------|:-----------------------------------------------------------------------|
+| 🥇 | **QA Engineer**             | Gain hands-on experience in software testing & quality assurance — my primary passion |
+| 🥈 | **Project Manager**         | Lead development teams, manage timelines, and deliver successful projects |
+| 🥉 | **UI/UX Designer & Developer** | Create visually appealing, user-friendly interfaces & functional systems |
 
 ---
 
