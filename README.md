@@ -13,8 +13,6 @@
 
 ---
 
-<!-- DESIGN DIVIDER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=header"/>
 </p>
@@ -31,39 +29,29 @@
 
 ## 💻 Tech Stack
 
-### 👩‍💻 Languages
+### 🧩 Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,python,js,cpp,webpack,mysql,ts,aws,cs" /><br/>
+  <img src="https://skillicons.dev/icons?i=django,github,git,laravel,html,css,bootstrap,tailwind,jquery" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,php,vscode,wordpress,vue,sass,graphql,postgres" />
 </p>
 
 ---
 
 ## 🚀 Currently Improving
 
-🌱 Enhancing frontend development skills using React & Next.js
-🧪 Learning testing principles and QA methodologies
-🎨 Improving UI/UX design and layout structuring
+🌱 Enhancing frontend development skills using **React & Next.js**
+🧪 Learning testing principles and **QA methodologies**
+🎨 Improving **UI/UX design** and layout structuring
 
 ---
 
 ## 🎯 Career Goals
 
-* 🌐 Become a skilled and professional Web Developer
-* 🧪 Gain hands-on experience as a QA Engineer
-* 📊 Grow into a Project Manager leading successful development teams
+🌐 Become a skilled and professional Web Developer
+🧪 Gain hands-on experience as a QA Engineer
+📊 Grow into a Project Manager leading successful development teams
 
 ---
 
@@ -93,8 +81,6 @@
 </p>
 
 ---
-
-<!-- FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=footer"/>
