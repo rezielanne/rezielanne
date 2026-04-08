@@ -12,7 +12,7 @@
 
 ## 🌷 About Me
 
-yaml
+
 name       : "Reziel Anne Atienza"
 location   : "Philippines 🇵🇭"
 role       : "IT Student"
