@@ -1,16 +1,11 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20%C2%B7%20Aspiring%20Project%20Manager%20%C2%B7%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=15" />
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=520&lines=🧪+Quality+is+not+an+act,+it+is+a+habit;📊+Building+skills+to+lead+great+teams;🌷+Detail-oriented+·+Curious+·+Driven;🎯+Test.+Improve.+Lead.+Repeat.)](https://git.io/typing-svg)
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezielanneAtienza)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezielanneAtienza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezielanne@gmail.com)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20in%20the%20Making%20%C2%B7%20Aspiring%20Project%20Manager%20%C2%B7%20UI%2FUX%20%26%20Dev%20Enthusiast&descAlignY=55&descSize=15" alt="Header" />
+  <br/>
+  <b>QA Engineer in the Making · Aspiring Project Manager · UI/UX & Dev Enthusiast</b>
+  <br/>
+  <a href="https://linkedin.com/in/rezielanneAtienza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rezielanne"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:rezielanne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 ---
@@ -146,14 +141,10 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ## 📊 GitHub Overview
 <div align="center">
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rezielanneAtienza&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f9a8d4&text_color=c4b5d4&border_radius=10" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezielanneAtienza&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c4b5d4&border_radius=10" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rezielanneAtienza&theme=midnight-purple&hide_border=true&background=0d1117&ring=c084fc&fire=f9a8d4&currStreakLabel=5eead4&border_radius=10)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rezielanne&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f9a8d4&text_color=c4b5d4&border_radius=10" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezielanne&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c4b5d4&border_radius=10" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rezielanne&theme=midnight-purple&hide_border=true&background=0d1117&ring=c084fc&fire=f9a8d4&currStreakLabel=5eead4&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -162,7 +153,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rezielanneAtienza&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rezielanne&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6)
 
 </div>
 
@@ -172,7 +163,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezielanneAtienza&bg_color=0d1117&color=c084fc&line=f9a8d4&point=5eead4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezielanne&bg_color=0d1117&color=c084fc&line=f9a8d4&point=5eead4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -183,13 +174,13 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rezielanneAtienza)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezielanneAtienza)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rezielanne)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rezielanne)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezielanne@gmail.com)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rezielanneAtienza&color=c084fc&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=rezielanne&color=c084fc&style=flat-square&label=Profile+Views)
 
 </div>
 
