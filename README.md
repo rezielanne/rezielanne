@@ -37,7 +37,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <tr>
     <td align="center">🥇</td>
     <td><strong>QA Engineer</strong></td>
-    <td>Gain hands-on experience in software testing & quality assurance — my primary passion</td>
+    <td>Gain hands-on experience in software testing &amp; quality assurance — my primary passion</td>
   </tr>
   <tr>
     <td align="center">🥈</td>
@@ -46,8 +46,8 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   </tr>
   <tr>
     <td align="center">🥉</td>
-    <td><strong>UI/UX Designer & Developer</strong></td>
-    <td>Create visually appealing, user-friendly interfaces and functional systems</td>
+    <td><strong>UI/UX Designer &amp; Developer</strong></td>
+    <td>Create visually appealing, user-friendly interfaces &amp; functional systems</td>
   </tr>
 </table>
 
