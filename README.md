@@ -89,11 +89,8 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>&nbsp;
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
