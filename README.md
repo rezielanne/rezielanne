@@ -30,9 +30,9 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 |   | Role                        | Focus                                                                 |
 |:-:|:----------------------------|:-----------------------------------------------------------------------|
-| 🥇 | **QA Engineer**             | Gain hands-on experience in software testing & quality assurance — my primary passion |
+| 🥇 | **QA Engineer**             | Gain hands-on experience in software testing and quality assurance — my primary passion |
 | 🥈 | **Project Manager**         | Lead development teams, manage timelines, and deliver successful projects |
-| 🥉 | **UI/UX Designer & Developer** | Create visually appealing, user-friendly interfaces & functional systems |
+| 🥉 | **UI/UX Designer and Developer** | Create visually appealing, user-friendly interfaces and functional systems |
 
 ---
 
