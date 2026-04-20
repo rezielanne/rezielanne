@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&amp" alt="Header" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Hi%2C%20I%27m%20Reziel%20Anne%20Atienza%20%F0%9F%8C%B7&amp;fontSize=34&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=45" alt="Header" />
    <p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;QA+Analyst;Flexible+Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" alt="Typing SVG"/>
       </p>
