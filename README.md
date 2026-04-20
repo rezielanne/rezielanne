@@ -73,33 +73,29 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ### 👩‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### ⚙️ Frameworks &amp; Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,jquery,laravel,django,vue" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,laravel,vite" />
 </p>
 
 ### 🛠️ Tools &amp; Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,webpack,postman,figma,wordpress,sass" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,canva" />
 </p>
 
 ### 🗄️ Databases &amp; Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,aws,graphql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,aws" />
 </p>
 
 ### 🧪 QA Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&amp;logo=testrail&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&amp;logo=cypress&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&amp;logo=browserstack&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
 </p>
 
@@ -108,11 +104,8 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
 </p>
 
 ---
