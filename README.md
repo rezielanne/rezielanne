@@ -128,15 +128,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rezielanne&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=6)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
