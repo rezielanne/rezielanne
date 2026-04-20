@@ -65,49 +65,41 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ![Kanban](https://img.shields.io/badge/Kanban-Board-5eead4?style=flat-square&amp;labelColor=0d1117)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&amp;logo=trello&amp;logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&amp;logo=notion&amp;logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&amp;logo=figma&amp;logoColor=white)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,laravel,vite" />
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,canva,windows,linux" />
 </p>
 
 ---
 
-### 📊 Project Management Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=notion,trello,jira" />
-</p>
-
----
-
 ### 🗄️ Databases & Cloud
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws" />
 </p>
 
 ---
 
 ### 🧪 QA Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postman,jest" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
@@ -115,7 +107,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ---
 
 ### 🔐 Penetration Testing Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -125,7 +117,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ---
 
 ### 🤖 AI Assisting Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
