@@ -52,8 +52,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/API%20Testing-Learning-f9a8d4?style=flat-square&labelColor=1a0a2e" />
 </p>
 
----
-
 ## 📊 Project Management Skills
 
 ### Methodologies & Tools
@@ -65,8 +63,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
----
-
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages
@@ -76,8 +72,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
-
----
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
@@ -89,8 +83,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
----
-
 ### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -100,8 +92,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
----
-
 ### 🗄️ Databases & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -109,8 +99,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
-
----
 
 ### 🧪 QA Tools
 <p align="center">
@@ -120,8 +108,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
----
-
 ### 🔐 Penetration Testing Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
@@ -129,8 +115,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Nmap-004B87?style=flat-square&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
 </p>
-
----
 
 ### 🤖 AI Assisting Tools
 <p align="center">
