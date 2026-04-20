@@ -84,6 +84,8 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ### 🛠️ Tools &amp; Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,canva" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ### 🗄️ Databases &amp; Cloud
@@ -109,8 +111,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 </p>
 
 ### AI Assisting Tools
-<p align="left">
-   ### 🤖 AI & Automation Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
