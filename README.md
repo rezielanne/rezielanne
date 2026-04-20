@@ -110,10 +110,10 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 | Priority | Area | Focus | Progress |
 |:--------:|------|-------|----------|
-| 🥇 | 🧪 QA &amp; Testing | Testing principles, methodologies &amp; automation | ████████░░ 80% |
-| 🥈 | 📊 Project Mgmt | Agile, Scrum, team &amp; delivery management | ███████░░░ 70% |
-| 🥉 | 🎨 UI/UX Design | User-centered design &amp; layout structuring | ██████░░░░ 60% |
-| 4️⃣ | 🌱 Frontend Dev | React &amp; Next.js development | █████░░░░░ 50% |
+| 🥇 | 🧪 QA &amp; Testing | Testing principles, methodologies &amp; automation |
+| 🥈 | 📊 Project Mgmt | Agile, Scrum, team &amp; delivery management |
+| 🥉 | 🎨 UI/UX Design | User-centered design &amp; layout structuring |
+| 4️⃣ | 🌱 Frontend Dev | React &amp; Next.js development | 
 
 ---
 
