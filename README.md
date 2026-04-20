@@ -108,8 +108,8 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ## 🚀 Currently Improving
 
-| Priority | Area | Focus | Progress |
-|:--------:|------|-------|----------|
+| Priority | Area | Focus | 
+|:--------:|------|-------|
 | 🥇 | 🧪 QA &amp; Testing | Testing principles, methodologies &amp; automation |
 | 🥈 | 📊 Project Mgmt | Agile, Scrum, team &amp; delivery management |
 | 🥉 | 🎨 UI/UX Design | User-centered design &amp; layout structuring |
