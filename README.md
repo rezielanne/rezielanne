@@ -50,11 +50,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-Learning-f9a8d4?style=flat-square&amp;labelColor=1a0a2e)
 ![API Testing](https://img.shields.io/badge/API%20Testing-Learning-f9a8d4?style=flat-square&amp;labelColor=1a0a2e)
 
-### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&amp;logo=jira&amp;logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&amp;logo=selenium&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&amp;logo=github&amp;logoColor=white)
 
 ---
 
