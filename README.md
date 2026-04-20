@@ -12,7 +12,7 @@
 
 ## 🌷 About Me
 
-yaml
+```yaml
 name       : "Reziel Anne Atienza"
 location   : "Philippines 🇵🇭"
 role       : "IT Student"
@@ -20,10 +20,9 @@ passion    : ["Quality Assurance", "Project Management", "UI/UX Design", "Web De
 focus      : "Ensuring software quality and leading teams that build great products 🧪📊"
 goal       : "From QA Engineer → Project Manager → Impactful Tech Leader 🚀"
 fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
+```
 
-
-
- 🌷 Passionate and detail-oriented IT student who believes that quality is the foundation of every great product. I enjoy finding what's broken, making it better, and building teams that deliver.
+🌷 Passionate and detail-oriented IT student who believes that quality is the foundation of every great product. I enjoy finding what's broken, making it better, and building teams that deliver.
 
 ---
 
@@ -68,50 +67,23 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages
-
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,php" /></a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
-
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,jquery,laravel,django,vue" /></a>
 </p>
 
 ### 🛠️ Tools & Platforms
-
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github,git,vscode,webpack,postman,figma,wordpress,sass" /></a>
 </p>
 
 ### 🗄️ Databases & Cloud
-
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a> 
-  <a href="#"><img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,aws,graphql" /></a>
 </p>
 
 ---
@@ -126,7 +98,6 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 | 4️⃣ | 🌱 Frontend Dev | React & Next.js development | █████░░░░░ 50% |
 
 ---
-
 
 ## 📊 GitHub Overview
 <div align="center">
