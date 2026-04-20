@@ -12,6 +12,8 @@
 
 ## 🌷 About Me
 
+<table><tr><td>
+
 ```yaml
 name       : "Reziel Anne Atienza"
 location   : "Philippines 🇵🇭"
