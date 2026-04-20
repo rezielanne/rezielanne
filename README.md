@@ -88,7 +88,7 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
 
 ### 🗄️ Databases &amp; Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs" />
 </p>
 
 ### 🧪 QA Tools
@@ -108,6 +108,15 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
 </p>
 
+### AI Assisting Tools
+<p align="left">
+   ### 🤖 AI & Automation Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</p> </p>
 ---
 
 ## 🚀 Currently Improving
