@@ -76,47 +76,62 @@ fun_fact   : "I find more bugs than features 🐛 and I'm proud of it ✨"
   <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
-### ⚙️ Frameworks &amp; Libraries
+---
+
+### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,laravel,vite" />
 </p>
 
-### 🛠️ Tools &amp; Platforms
+---
+
+### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,canva" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,figma,canva,windows,linux" />
 </p>
 
-### 🗄️ Databases &amp; Cloud
+---
+
+### 📊 Project Management Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs" />
+  <img src="https://skillicons.dev/icons?i=notion,trello,jira" />
 </p>
+
+---
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws" />
+</p>
+
+---
 
 ### 🧪 QA Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postman,jest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
+
+---
 
 ### 🔐 Penetration Testing Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&amp;logo=linux&amp;logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=kali,linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
-### AI Assisting Tools
+---
+
+### 🤖 AI Assisting Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-</p> </p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 ---
 
 ## 🚀 Currently Improving
