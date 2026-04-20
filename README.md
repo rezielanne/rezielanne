@@ -5,7 +5,6 @@
    <p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;QA+Analyst;Flexible+Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" alt="Typing SVG"/>
       </p>
-  <br/>
   <a href="https://linkedin.com/in/rezielanneAtienza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rezielanne"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
   <a href="mailto:rezielanne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
